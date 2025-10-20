@@ -4,7 +4,7 @@
 
 I'm a Computer Science student currently studying at the **University Of Nottingham** with a passion for full-stack web development, specializing in **Rust** and **React**.
 
-**I am also currently working on expanding my knowledge on AI and Hyper-Heuristics.**
+**I am currently working on expanding my knowledge on AI and Hyper-Heuristics.**
 
 ## 🛠️ My Tech Stack
 
