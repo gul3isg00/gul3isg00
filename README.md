@@ -17,38 +17,14 @@ I'm a Computer Science student currently studying at the **University Of Notting
 
 ## 🚀 Key Projects & Experience
 
-Here are some of the projects I'm most proud of, with a focus on the technical challenges and architecture.
+Hereis a brief overview of some of the projects I'm most proud of:
 
 ### The SocialLine *(Private Repo)*
 *(Nov 2023 -)*
 
-As the sole developer for The SocialLine, a start-up cross-platform event matchmaking app, I designed and built the entire system from the ground up.
+Architected a cross-platform event matchmaking app from scratch. Built the high-performance **Rust** backend (7 interconnected servers) and the **React Native** frontend. Implemented a threaded, graph-based matchmaking algorithm and integrated MongoDB & AWS S3.
 
-* **Backend:** Built a high-performance backend in **Rust** featuring 7 interconnected servers.
-* **Frontend:** Developed the cross-platform mobile app using **React Native**.
-* **Infrastructure:** Integrated **MongoDB** for data storage and **AWS S3** for file storage.
-* **Core Algorithm:** Implemented a **threaded, graph-based matchmaking algorithm** to ensure speed and accuracy. I also designed systems to prevent redundant data.
-* **Leadership:** Beyond coding, I led internal meetings, managed stakeholder communications, researched and implemented GDPR compliance, and mentored a summer intern in React and full-stack development.
-
-### 2. W3W Delivery Route Planning App *(On GitLab)*
+### W3W Delivery Route Planning App  *(On GitLabs)*
 *(Sep 2023 - Jun 2024)*
 
-I served as the team leader for a project with **KerridgeCS**, directing the development of a delivery route planning app.
-
-* **Project Management:** I directed the project using **Agile sprints** and handled all client communications.
-* **Frontend Lead:** I led the front-end development in **React Native**.
-* **Complex Features:** I personally built the app's most complex features, including:
-    * API integration
-    * Map-based satnav
-    * Offline support
-* **Problem Solving:** I led collaborative debugging sessions over Discord to solve difficult technical problems and successfully kept the project on track by adapting our workflow after a team member's departure.
-
-* **BSc Computer Science**
-* On track to achieve a **First class degree**.
-* **Key Modules:** Developing Maintainable Software, Operating Systems & Concurrency, Languages and Computation, Systems & Architecture, Human AI Interaction.
-
-## 🎨 Other Interests
-
-When I'm not coding, I'm also interested in 3D Printing, Reptile Keeping, and Graphic Design.
-* **Graphic Design:** My complex photo montage created with Adobe Photoshop was selected for a national art exhibition and I was featured in an interview for **Adobe's global MAX 2021 showcase**.
-* **ESports:** I ran my college's ESports society, growing it to over 100 members and leading 3 of our teams to become national champions.
+Led an Agile project for **KerridgeCS**, directing all client communications and development of a delivery route planning app. Headed the **React Native** frontend build, personally implementing complex features like API integration, map-based satnav, and offline support.
